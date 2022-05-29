@@ -2,9 +2,9 @@
   Hi I'm Hari
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 _Living in Coimbatore,Tamil Nadu, India_
-
-
+<br>
 I'm a passionate software developer.
 🌱 I’m currently solving problems in HackerRank
 
