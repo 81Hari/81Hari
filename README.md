@@ -1,7 +1,13 @@
-## Hi I'm Hari 👋
-Living in Coimbatore,Tamil Nadu, India
+# Hi I'm Hari 👋
+_Living in Coimbatore,Tamil Nadu, India_
 
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 I'm a passionate software developer.
+🌱 I’m currently solving problems in HackerRank
 
 ### Languages
 python c cplusplus java
