@@ -1,4 +1,4 @@
-### Hi I'm Hari 👋
+# Hi I'm Hari 👋
 
 <!--
 **81Hari/81Hari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
