@@ -1,4 +1,10 @@
-# Hi I'm Hari 👋
+## Hi I'm Hari 👋
+Living in Coimbatore,Tamil Nadu, India
+
+I'm a passionate software developer.
+
+### Languages
+python c cplusplus java
 
 <!--
 **81Hari/81Hari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
